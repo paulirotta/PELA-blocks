@@ -14,13 +14,6 @@ Copy your calibration files and any .json parameter adjustment files you have cr
 1. `cp material.scad ..`
 1. `cp *.json ..`
 
-## GIT LFS
-
-You may need to install git lfs separately.
-
-1. `git lfs install`
-=======
-
 ## Sparce Checkout
 
 This saves space on your computer, bandwidth and time. Only the latest version of generated STL and PNG images is kept locally.
@@ -37,6 +30,6 @@ It is also possible to setup a batch process to clean and re-save multiple `.STL
 
 ## Cleaning up git
 
-Github kindly gives us LFS but no tools for removing old files on LFS. So to keep the size down, occational cleanup is in the following script which runs on both Linux and Windows.
+To keep the files size down in the repository when many `.stl` and `.png` files start to clutter it, occational cleanup is in the following script which runs on both Linux and Windows.
 
 1. `./gitcleanup.ps1`

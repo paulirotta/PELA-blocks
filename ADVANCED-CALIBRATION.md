@@ -13,7 +13,7 @@ If you later update the PELA-blocks project to a newer version, you risk overwir
 
 ![PELA Calibration Set](calibration/PELA-calibration-set.png)
 
-[PELA Calibration Block Set](https://github.com/LEGO-Prototypes/PELA-blocks/blob/master/PELA-calibration-set.stl)
+[PELA Calibration Block Set](https://github.com/paulirotta/PELA-blocks/blob/master/PELA-calibration-set.stl)
 
 These individual blocks provide technic hole size calibration and can be used more flexibly. The technic holes vary in size. Enter the desired number as `axle_hole_tweak` in [`material.scad`](material.scad)
 

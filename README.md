@@ -23,7 +23,7 @@ The name PELA comes from the Finnish "pelataan" meaning "let's play". This [blog
 
 **The STL files shown are not calibrated for your printer.** To get a good snap fit with your 3D printer and different material, you need to fine tune the size of knobs, sockets and technic holes. Some starting values are 
 
-1. **[DOWNLOAD](https://github.com/LEGO-compatible-gadgets/PELA-blocks/archive/master.zip)** the latest designs, or `git clone git@github.com:LEGO-Prototypes/PELA-blocks.git --recurse-submodules`, then `git lfs install` in each git module
+1. **[DOWNLOAD](https://github.com/LEGO-compatible-gadgets/PELA-blocks/archive/master.zip)** the latest designs, or `git clone git@github.com:paulirotta/PELA-blocks.git`
 1. **[Calibrate](#calibrate)** the PELA Block models for your material and printer
 
 See [Advanced Setup](ADVANCED-SETUP.md) for additional tricks.
