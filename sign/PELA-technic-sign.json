@@ -1,0 +1,31 @@
+{
+    "parameterSets": {
+        "N of 1": {
+            "_center": "2",
+            "_cut_line": "0",
+            "_edge_text": "",
+            "_f1": "Liberation Sans:style=Bold Italic",
+            "_f2": "Arial:style=Bold",
+            "_fs1": "4.8",
+            "_fs2": "5",
+            "_h": "1",
+            "_horizontal_skin": "0.1",
+            "_l": "7",
+            "_lang": "en",
+            "_large_nozzle": "true",
+            "_left_margin": "1.8",
+            "_line_1": "",
+            "_line_2": "red.nof1.ai",
+            "_material": "10",
+            "_text_depth": "1",
+            "_twist_l": "1",
+            "_twist_w": "2",
+            "_vertical_margin": "0.3",
+            "_vertical_skin": "0.1",
+            "_w": "3"
+        }
+    },
+    "fileFormatVersion": "1",
+    "parameterSets": "",
+    "parameterSets": ""
+}

@@ -1,0 +1,318 @@
+Render image motor/PELA-n20-gearmotor-enclosure.scad
+motor/PELA-n20-gearmotor-enclosure.png preview image error: ERROR: Parser error in file "/home/paul/github/PELA-drift-car/PELA-blocks/motor/PELA-n20-gearmotor-enclosure.scad", line 34: syntax error
+
+Can't parse file 'motor/PELA-n20-gearmotor-enclosure.scad'!
+
+
+Render stl PELA-grove-module-enclosure.scad
+PELA-grove-module-enclosure.scad model build error: ERROR: Assertion '(skin != undef)' failed in file PELA-technic-block.scad, line 432
+TRACE: called by 'assert', in file PELA-technic-block.scad, line 432.
+TRACE: called by 'double_end_connector_hole_set', in file PELA-grove-module-enclosure.scad, line 175.
+TRACE: called by 'union', in file PELA-grove-module-enclosure.scad, line 168.
+TRACE: called by 'difference', in file PELA-grove-module-enclosure.scad, line 161.
+TRACE: called by 'bottom_piece', in file PELA-grove-module-enclosure.scad, line 138.
+TRACE: called by 'if', in file PELA-grove-module-enclosure.scad, line 137.
+TRACE: called by 'rotate', in file PELA-grove-module-enclosure.scad, line 136.
+TRACE: called by 'grove_module_enclosure', in file PELA-grove-module-enclosure.scad, line 129.
+Current top level object is empty.
+
+sign/PELA-vertical-sign.scad model build error: WARNING: Ignoring unknown variable 'material', in file PELA-vertical-sign.scad, line 134.
+WARNING: Ignoring unknown variable 'material', in file PELA-vertical-sign.scad, line 126.
+ERROR: Assertion '(material != undef)' failed in file PELA-technic-block.scad, line 144
+TRACE: called by 'assert', in file PELA-technic-block.scad, line 144.
+TRACE: called by 'PELA_technic_block', in file PELA-vertical-sign.scad, line 138.
+TRACE: called by 'if', in file PELA-vertical-sign.scad, line 137.
+TRACE: called by 'difference', in file PELA-vertical-sign.scad, line 136.
+TRACE: called by 'PELA_vertical_sign', in file PELA-vertical-sign.scad, line 126.
+Current top level object is empty.
+
+Render stl knob-mount/PELA-knob-mount.scad
+knob-mount/PELA-knob-mount.scad model build error: WARNING: Ignoring unknown variable 'skip_edge_knobs', in file PELA-knob-mount.scad, line 316.
+WARNING: Ignoring unknown variable 'knob_vent_radius', in file PELA-knob-mount.scad, line 316.
+ERROR: Assertion '(knob_height != undef)' failed in file PELA-box-enclosure.scad, line 252
+TRACE: called by 'assert', in file PELA-box-enclosure.scad, line 252.
+TRACE: called by 'box_enclosure', in file PELA-knob-mount.scad, line 316.
+TRACE: called by 'difference', in file PELA-knob-mount.scad, line 315.
+TRACE: called by 'knob_mount', in file PELA-knob-mount.scad, line 244.
+Current top level object is empty.
+
+Render stl knob-mount/PELA-nodemcu-32s-knob-mount.scad
+knob-mount/PELA-nodemcu-32s-knob-mount.scad model build error: WARNING: Ignoring unknown variable 'block_height', in file PELA-nodemcu-32s-knob-mount.scad, line 130.
+WARNING: Ignoring unknown variable 'material', in file PELA-nodemcu-32s-knob-mount.scad, line 130.
+ERROR: Assertion '(material != undef)' failed in file PELA-knob-mount.scad, line 254
+TRACE: called by 'assert', in file PELA-knob-mount.scad, line 254.
+TRACE: called by 'knob_mount', in file PELA-nodemcu-32s-knob-mount.scad, line 140.
+TRACE: called by 'difference', in file PELA-nodemcu-32s-knob-mount.scad, line 139.
+TRACE: called by 'nodemcu_32s_knob_mount', in file PELA-nodemcu-32s-knob-mount.scad, line 130.
+Current top level object is empty.
+
+Render stl knob-mount/PELA-nodemcu-v2-knob-mount.scad
+knob-mount/PELA-nodemcu-v2-knob-mount.scad model build error: WARNING: Ignoring unknown variable 'material', in file PELA-nodemcu-v2-knob-mount.scad, line 142.
+ERROR: Assertion '(material != undef)' failed in file PELA-knob-mount.scad, line 254
+TRACE: called by 'assert', in file PELA-knob-mount.scad, line 254.
+TRACE: called by 'knob_mount', in file PELA-nodemcu-v2-knob-mount.scad, line 153.
+TRACE: called by 'difference', in file PELA-nodemcu-v2-knob-mount.scad, line 152.
+TRACE: called by 'nodemcu_v2_knob_mount', in file PELA-nodemcu-v2-knob-mount.scad, line 142.
+Current top level object is empty.
+
+Render stl knob-mount/PELA-pca9685-servo-knob-mount.scad
+knob-mount/PELA-pca9685-servo-knob-mount.scad model build error: WARNING: Ignoring unknown variable 'block_height', in file PELA-pca9685-servo-knob-mount.scad, line 133.
+WARNING: Ignoring unknown variable 'material', in file PELA-pca9685-servo-knob-mount.scad, line 133.
+WARNING: Ignoring unknown variable 'sockets', in file PELA-pca9685-servo-knob-mount.scad, line 133.
+ERROR: Assertion '(material != undef)' failed in file PELA-knob-mount.scad, line 254
+TRACE: called by 'assert', in file PELA-knob-mount.scad, line 254.
+TRACE: called by 'knob_mount', in file PELA-pca9685-servo-knob-mount.scad, line 133.
+Current top level object is empty.
+
+Render stl knob-mount/PELA-sparkfun-pro-micro-knob-mount.scad
+knob-mount/PELA-sparkfun-pro-micro-knob-mount.scad model build error: WARNING: Ignoring unknown variable 'block_height', in file PELA-sparkfun-pro-micro-knob-mount.scad, line 126.
+WARNING: Ignoring unknown variable 'material', in file PELA-sparkfun-pro-micro-knob-mount.scad, line 126.
+ERROR: Assertion '(material != undef)' failed in file PELA-knob-mount.scad, line 254
+TRACE: called by 'assert', in file PELA-knob-mount.scad, line 254.
+TRACE: called by 'knob_mount', in file PELA-sparkfun-pro-micro-knob-mount.scad, line 137.
+TRACE: called by 'difference', in file PELA-sparkfun-pro-micro-knob-mount.scad, line 136.
+TRACE: called by 'PELA_sparkfun_pro_micro_knob_mount', in file PELA-sparkfun-pro-micro-knob-mount.scad, line 126.
+Current top level object is empty.
+
+motor/PELA-n20-gearmotor-enclosure.scad model build error: ERROR: Parser error in file "/home/paul/github/PELA-drift-car/PELA-blocks/motor/PELA-n20-gearmotor-enclosure.scad", line 34: syntax error
+
+Can't parse file 'motor/PELA-n20-gearmotor-enclosure.scad'!
+
+
+Render stl motor/PELA-round-motor-enclosure.scad
+axle/PELA-technic-axle.scad model build error: ERROR: Assertion '(skin != undef)' failed in file PELA-block.scad, line 135
+TRACE: called by 'assert', in file PELA-block.scad, line 135.
+TRACE: called by 'cut_space', in file PELA-technic-axle.scad, line 83.
+TRACE: called by 'translate', in file PELA-technic-axle.scad, line 82.
+TRACE: called by 'union', in file PELA-technic-axle.scad, line 77.
+TRACE: called by 'difference', in file PELA-technic-axle.scad, line 74.
+TRACE: called by 'axle', in file PELA-technic-axle.scad, line 54.
+Current top level object is empty.
+
+Render stl axle/PELA-technic-cross-axle.scad
+axle/PELA-technic-cross-axle.scad model build error: ERROR: Assertion '(skin != undef)' failed in file PELA-block.scad, line 135
+TRACE: called by 'assert', in file PELA-block.scad, line 135.
+TRACE: called by 'cut_space', in file PELA-technic-axle.scad, line 83.
+TRACE: called by 'translate', in file PELA-technic-axle.scad, line 82.
+TRACE: called by 'union', in file PELA-technic-axle.scad, line 77.
+TRACE: called by 'difference', in file PELA-technic-axle.scad, line 74.
+TRACE: called by 'axle', in file PELA-technic-cross-axle.scad, line 77.
+TRACE: called by 'difference', in file PELA-technic-cross-axle.scad, line 76.
+TRACE: called by 'rotate', in file PELA-technic-cross-axle.scad, line 75.
+TRACE: called by 'cross_axle', in file PELA-technic-cross-axle.scad, line 54.
+Current top level object is empty.
+
+Render stl axle/PELA-technic-hub.scad
+axle/PELA-technic-hub.scad model build error: ECHO: "hub_radius: ", 4
+ERROR: Assertion '(skin != undef)' failed in file PELA-block.scad, line 135
+TRACE: called by 'assert', in file PELA-block.scad, line 135.
+TRACE: called by 'cut_space', in file PELA-technic-axle.scad, line 83.
+TRACE: called by 'translate', in file PELA-technic-axle.scad, line 82.
+TRACE: called by 'union', in file PELA-technic-axle.scad, line 77.
+TRACE: called by 'difference', in file PELA-technic-axle.scad, line 74.
+TRACE: called by 'axle', in file PELA-technic-cross-axle.scad, line 77.
+TRACE: called by 'difference', in file PELA-technic-cross-axle.scad, line 76.
+TRACE: called by 'rotate', in file PELA-technic-cross-axle.scad, line 75.
+TRACE: called by 'cross_axle', in file PELA-technic-hub.scad, line 88.
+TRACE: called by 'rotate', in file PELA-technic-hub.scad, line 87.
+TRACE: called by 'translate', in file PELA-technic-hub.scad, line 86.
+TRACE: called by 'difference', in file PELA-technic-hub.scad, line 83.
+Current top level object is empty.
+
+Render stl axle/PELA-technic-wheel.scad
+axle/PELA-technic-wheel.scad model build error: ECHO: "hub_radius: ", 4
+ERROR: Assertion '(skin != undef)' failed in file PELA-block.scad, line 135
+TRACE: called by 'assert', in file PELA-block.scad, line 135.
+TRACE: called by 'cut_space', in file PELA-technic-axle.scad, line 83.
+TRACE: called by 'translate', in file PELA-technic-axle.scad, line 82.
+TRACE: called by 'union', in file PELA-technic-axle.scad, line 77.
+TRACE: called by 'difference', in file PELA-technic-axle.scad, line 74.
+TRACE: called by 'axle', in file PELA-technic-cross-axle.scad, line 77.
+TRACE: called by 'difference', in file PELA-technic-cross-axle.scad, line 76.
+TRACE: called by 'rotate', in file PELA-technic-cross-axle.scad, line 75.
+TRACE: called by 'cross_axle', in file PELA-technic-hub.scad, line 88.
+TRACE: called by 'rotate', in file PELA-technic-hub.scad, line 87.
+TRACE: called by 'translate', in file PELA-technic-hub.scad, line 86.
+TRACE: called by 'difference', in file PELA-technic-hub.scad, line 83.
+Current top level object is empty.
+
+Render stl knob-mount/PELA-arduino-mega-knob-mount.scad
+knob-mount/PELA-arduino-mega-knob-mount.scad model build error: ERROR: Assertion '(bottom_vents != undef)' failed in file PELA-knob-mount.scad, line 267
+TRACE: called by 'assert', in file PELA-knob-mount.scad, line 267.
+TRACE: called by 'knob_mount', in file PELA-arduino-mega-knob-mount.scad, line 240.
+Current top level object is empty.
+
+Render stl knob-mount/PELA-box-enclosure.scad
+PNG render complete: technic-mount/PELA-t265-realsense-tracking-camera-technic-mount.scad
+Render image technic-mount/PELA-technic-box.scad
+STL render complete: motor/PELA-round-motor-enclosure.scad
+Render stl motor/PELA-square-servo-end-mount.scad
+motor/PELA-square-servo-end-mount.scad model build error: WARNING: variable skin not specified as parameter, in file PELA-square-servo-end-mount.scad, line 153
+ERROR: Assertion '(horizontal_skin != undef)' failed in file PELA-technic-beam.scad, line 85
+TRACE: called by 'assert', in file PELA-technic-beam.scad, line 85.
+TRACE: called by 'technic_beam', in file PELA-square-servo-end-mount.scad, line 153.
+TRACE: called by 'square_servo_end_beam', in file PELA-square-servo-end-mount.scad, line 131.
+TRACE: called by 'color', in file PELA-square-servo-end-mount.scad, line 131.
+TRACE: called by 'difference', in file PELA-square-servo-end-mount.scad, line 129.
+TRACE: called by 'square_servo_end_mount', in file PELA-square-servo-end-mount.scad, line 101.
+Current top level object is empty.
+
+Render stl pin/PELA-technic-pin-array.scad
+pin/PELA-technic-pin-array.scad model build error: ERROR: Assertion '(skin != undef)' failed in file PELA-block.scad, line 135
+TRACE: called by 'assert', in file PELA-block.scad, line 135.
+TRACE: called by 'cut_space', in file PELA-technic-pin.scad, line 130.
+TRACE: called by 'translate', in file PELA-technic-pin.scad, line 129.
+TRACE: called by 'union', in file PELA-technic-pin.scad, line 110.
+TRACE: called by 'difference', in file PELA-technic-pin.scad, line 95.
+TRACE: called by 'rotate', in file PELA-technic-pin.scad, line 94.
+TRACE: called by 'translate', in file PELA-technic-pin.scad, line 93.
+TRACE: called by 'difference', in file PELA-technic-pin.scad, line 92.
+TRACE: called by 'pin', in file PELA-technic-pin.scad, line 264.
+TRACE: called by 'translate', in file PELA-technic-pin.scad, line 263.
+TRACE: called by 'for', in file PELA-technic-pin.scad, line 262.
+TRACE: called by 'difference', in file PELA-technic-pin.scad, line 261.
+Current top level object is empty.
+
+Render stl pin/PELA-technic-pin.scad
+pin/PELA-technic-pin.scad model build error: ERROR: Assertion '(skin != undef)' failed in file PELA-block.scad, line 135
+TRACE: called by 'assert', in file PELA-block.scad, line 135.
+TRACE: called by 'cut_space', in file PELA-technic-pin.scad, line 130.
+TRACE: called by 'translate', in file PELA-technic-pin.scad, line 129.
+TRACE: called by 'union', in file PELA-technic-pin.scad, line 110.
+TRACE: called by 'difference', in file PELA-technic-pin.scad, line 95.
+TRACE: called by 'rotate', in file PELA-technic-pin.scad, line 94.
+TRACE: called by 'translate', in file PELA-technic-pin.scad, line 93.
+TRACE: called by 'difference', in file PELA-technic-pin.scad, line 92.
+TRACE: called by 'pin', in file PELA-technic-pin.scad, line 54.
+Current top level object is empty.
+
+Render stl sign/PELA-panel-sign.scad
+sign/PELA-panel-sign.scad model build error: DEPRECATED: Using ranges of the form [begin:end] with begin value greater than the end value is deprecated.
+ERROR: Assertion '(skin != undef)' failed in file PELA-block.scad, line 135
+TRACE: called by 'assert', in file PELA-block.scad, line 135.
+TRACE: called by 'cut_space', in file PELA-panel-sign.scad, line 173.
+TRACE: called by 'difference', in file PELA-panel-sign.scad, line 153.
+TRACE: called by 'PELA_panel_sign', in file PELA-panel-sign.scad, line 117.
+Current top level object is empty.
+
+Render stl sign/PELA-technic-sign.scad
+sign/PELA-technic-sign.scad model build error: WARNING: variable knob_vent_radius not specified as parameter, in file PELA-technic-sign.scad, line 142
+WARNING: variable solid_first_layer not specified as parameter, in file PELA-technic-sign.scad, line 142
+WARNING: variable sockets not specified as parameter, in file PELA-technic-sign.scad, line 185
+WARNING: variable knobs not specified as parameter, in file PELA-technic-sign.scad, line 185
+WARNING: variable solid_first_layer not specified as parameter, in file PELA-technic-sign.scad, line 185
+ERROR: Assertion '(top_vents != undef)' failed in file PELA-technic-box.scad, line 176
+TRACE: called by 'assert', in file PELA-technic-box.scad, line 176.
+TRACE: called by 'technic_box', in file PELA-technic-sign.scad, line 185.
+TRACE: called by 'difference', in file PELA-technic-sign.scad, line 184.
+TRACE: called by 'union', in file PELA-technic-sign.scad, line 183.
+TRACE: called by 'difference', in file PELA-technic-sign.scad, line 182.
+TRACE: called by 'PELA_technic_sign', in file PELA-technic-sign.scad, line 142.
+Current top level object is empty.
+
+Render stl technic-mount/PELA-respeaker-core-v2-mount.scad
+technic-mount/PELA-respeaker-core-v2-mount.scad model build error: WARNING: Ignoring unknown variable 'width', in file PELA-respeaker-core-v2-mount.scad, line 74.
+WARNING: Ignoring unknown variable 'side', in file PELA-respeaker-core-v2-mount.scad, line 76.
+WARNING: Ignoring unknown variable 'side', in file PELA-respeaker-core-v2-mount.scad, line 76.
+WARNING: Ignoring unknown variable 'side_length', in file PELA-respeaker-core-v2-mount.scad, line 95.
+WARNING: Ignoring unknown variable 'outer_width', in file PELA-respeaker-core-v2-mount.scad, line 97.
+WARNING: Ignoring unknown variable 'side', in file PELA-respeaker-core-v2-mount.scad, line 97.
+WARNING: Ignoring unknown variable 'side', in file PELA-respeaker-core-v2-mount.scad, line 97.
+WARNING: Ignoring unknown variable 'width', in file PELA-respeaker-core-v2-mount.scad, line 108.
+WARNING: Ignoring unknown variable 'top', in file PELA-respeaker-core-v2-mount.scad, line 110.
+WARNING: Ignoring unknown variable 'top', in file PELA-respeaker-core-v2-mount.scad, line 115.
+WARNING: Ignoring unknown variable 'material', in file PELA-respeaker-core-v2-mount.scad, line 277.
+WARNING: Ignoring unknown variable 'ox', in file PELA-respeaker-core-v2-mount.scad, line 279.
+WARNING: Ignoring unknown variable 'oy', in file PELA-respeaker-core-v2-mount.scad, line 279.
+WARNING: Ignoring unknown variable 'board_model', in file PELA-respeaker-core-v2-mount.scad, line 280.
+WARNING: Ignoring unknown variable 'side_length', in file PELA-respeaker-core-v2-mount.scad, line 290.
+ERROR: Assertion '(material != undef)' failed in file PELA-technic-beam.scad, line 82
+TRACE: called by 'assert', in file PELA-technic-beam.scad, line 82.
+TRACE: called by 'technic_beam', in file PELA-respeaker-core-v2-mount.scad, line 290.
+TRACE: called by 'color', in file PELA-respeaker-core-v2-mount.scad, line 289.
+TRACE: called by 'rotate', in file PELA-respeaker-core-v2-mount.scad, line 287.
+TRACE: called by 'respeaker_core_v2_technic_mount', in file PELA-respeaker-core-v2-mount.scad, line 138.
+TRACE: called by 'rotate', in file PELA-respeaker-core-v2-mount.scad, line 137.
+TRACE: called by 'if', in file PELA-respeaker-core-v2-mount.scad, line 136.
+Current top level object is empty.
+
+Render stl technic-mount/PELA-respeaker-mic-array-v2-technic-mount.scad
+technic-mount/PELA-respeaker-mic-array-v2-technic-mount.scad model build error: WARNING: variable center_sockets not specified as parameter, in file PELA-respeaker-mic-array-v2-technic-mount.scad, line 220
+WARNING: variable center_knobs not specified as parameter, in file PELA-respeaker-mic-array-v2-technic-mount.scad, line 220
+WARNING: variable cover_sockets not specified as parameter, in file PELA-respeaker-mic-array-v2-technic-mount.scad, line 220
+WARNING: variable cover_knobs not specified as parameter, in file PELA-respeaker-mic-array-v2-technic-mount.scad, line 220
+WARNING: variable solid_first_layer not specified as parameter, in file PELA-respeaker-mic-array-v2-technic-mount.scad, line 220
+WARNING: Ignoring unknown variable 'material', in file PELA-respeaker-mic-array-v2-technic-mount.scad, line 220.
+WARNING: Ignoring unknown variable 'solid_first_layer', in file PELA-respeaker-mic-array-v2-technic-mount.scad, line 220.
+ERROR: Assertion '(material != undef)' failed in file PELA-technic-mount.scad, line 232
+TRACE: called by 'assert', in file PELA-technic-mount.scad, line 232.
+TRACE: called by 'technic_mount_and_cover', in file PELA-respeaker-mic-array-v2-technic-mount.scad, line 220.
+TRACE: called by 'difference', in file PELA-respeaker-mic-array-v2-technic-mount.scad, line 219.
+Current top level object is empty.
+
+Render stl technic-mount/PELA-sparkfun-bigeasydriver-technic-mount.scad
+technic-mount/PELA-sparkfun-bigeasydriver-technic-mount.scad model build error: WARNING: variable center_sockets not specified as parameter, in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 209
+WARNING: variable center_knobs not specified as parameter, in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 209
+WARNING: variable cover_sockets not specified as parameter, in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 209
+WARNING: variable cover_knobs not specified as parameter, in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 209
+WARNING: variable solid_first_layer not specified as parameter, in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 209
+WARNING: Ignoring unknown variable 'horizontal_skin', in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 209.
+WARNING: Ignoring unknown variable 'material', in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 209.
+WARNING: Ignoring unknown variable 'solid_first_layer', in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 209.
+WARNING: Ignoring unknown variable 'vertical_skin', in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 209.
+WARNING: Ignoring unknown variable 'knob_vent_radius', in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 209.
+ERROR: Assertion '(material != undef)' failed in file PELA-technic-mount.scad, line 232
+TRACE: called by 'assert', in file PELA-technic-mount.scad, line 232.
+TRACE: called by 'technic_mount_and_cover', in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 209.
+TRACE: called by 'difference', in file PELA-sparkfun-bigeasydriver-technic-mount.scad, line 208.
+Current top level object is empty.
+
+Render stl technic-mount/PELA-stmf4-discovery-technic-mount.scad
+STL render complete: knob-mount/PELA-box-enclosure.scad
+Render stl knob-mount/PELA-intel-compute-stick-box-enclosure.scad
+knob-mount/PELA-intel-compute-stick-box-enclosure.scad model build error: WARNING: _h was assigned on line 54 but was overwritten on line 84
+WARNING: Ignoring unknown variable 'l_pad', in file PELA-intel-compute-stick-box-enclosure.scad, line 259.
+WARNING: Ignoring unknown variable 'length', in file PELA-intel-compute-stick-box-enclosure.scad, line 259.
+WARNING: ceil() parameter could not be converted, in file ../PELA-technic-block.scad, line 130
+WARNING: Ignoring unknown variable 'w_pad', in file PELA-intel-compute-stick-box-enclosure.scad, line 260.
+WARNING: Ignoring unknown variable 'width', in file PELA-intel-compute-stick-box-enclosure.scad, line 260.
+WARNING: ceil() parameter could not be converted, in file ../PELA-technic-block.scad, line 130
+WARNING: Ignoring unknown variable 'length', in file PELA-intel-compute-stick-box-enclosure.scad, line 207.
+ERROR: Assertion '(length != undef)' failed in file PELA-intel-compute-stick-box-enclosure.scad, line 207
+TRACE: called by 'assert', in file PELA-intel-compute-stick-box-enclosure.scad, line 207.
+TRACE: called by 'intel_compute_stick_box_enclosure', in file PELA-intel-compute-stick-box-enclosure.scad, line 195.
+Current top level object is empty.
+
+Render stl technic-mount/PELA-pir-technic-mount.scad
+STL render complete: technic-mount/PELA-nodemcu-v2-technic-mount.scad
+Render stl technic-mount/PELA-pca9685-servo-board-technic-mount.scad
+PNG render complete: technic-mount/PELA-arduino-uno-technic-mount.scad
+Render image technic-mount/PELA-jetson-nano-technic-mount.scad
+PNG render complete: technic-mount/PELA-technic-mount.scad
+Render stl technic-mount/PELA-powerbank-technic-mount.scad
+STL render complete: technic-mount/PELA-pir-technic-mount.scad
+Render stl threads/Yet_another_thread_library_for_OpenSCAD/quickthread.scad
+threads/Yet_another_thread_library_for_OpenSCAD/quickthread.scad model build error: Current top level object is empty.
+
+Render stl threads/threads.scad
+threads/threads.scad model build error: Current top level object is empty.
+
+Render stl vive-tracker/PELA-camera-mount-screw.scad
+vive-tracker/PELA-camera-mount-screw.scad model build error: ERROR: Assertion '(skin != undef)' failed in file PELA-block.scad, line 135
+TRACE: called by 'assert', in file PELA-block.scad, line 135.
+TRACE: called by 'cut_space', in file PELA-camera-mount-screw.scad, line 98.
+TRACE: called by 'translate', in file PELA-camera-mount-screw.scad, line 97.
+TRACE: called by 'difference', in file PELA-camera-mount-screw.scad, line 86.
+TRACE: called by 'thumbscrew', in file PELA-camera-mount-screw.scad, line 64.
+Current top level object is empty.
+
+Render stl vive-tracker/PELA-vive-tracker-mount.scad
+vive-tracker/PELA-vive-tracker-mount.scad model build error: WARNING: variable solid_first_layer not specified as parameter, in file PELA-vive-tracker-mount.scad, line 140
+ERROR: Assertion '(skin != undef)' failed in file PELA-socket-panel.scad, line 84
+TRACE: called by 'assert', in file PELA-socket-panel.scad, line 84.
+TRACE: called by 'socket_panel', in file PELA-vive-tracker-mount.scad, line 140.
+TRACE: called by 'union', in file PELA-vive-tracker-mount.scad, line 139.
+TRACE: called by 'difference', in file PELA-vive-tracker-mount.scad, line 138.
+TRACE: called by 'PELA_vive_tracker_mount', in file PELA-vive-tracker-mount.scad, line 119.
+Current top level object is empty.
+

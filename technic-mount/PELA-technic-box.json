@@ -1,0 +1,53 @@
+{
+    "parameterSets": {
+        "Jee": {
+            "block_height": "8",
+            "center": "0",
+            "center_knobs": "true",
+            "center_sockets": "true",
+            "cover_center": "4",
+            "cover_h": "1",
+            "cover_knobs": "true",
+            "cover_sockets": "true",
+            "cover_text": "Jee!",
+            "cut_line": "0",
+            "h": "1",
+            "knob_vent_radius": "0",
+            "l": "14",
+            "large_nozzle": "true",
+            "material": "5",
+            "render_modules": "0",
+            "text": "B",
+            "text_depth": "0.5",
+            "twist_l": "6",
+            "twist_w": "2",
+            "w": "5"
+        },
+        "Desktop": {
+            "_center": "6",
+            "_cover_center": "3",
+            "_cover_corner_tabs": "false",
+            "_cover_h": "1",
+            "_cover_text": "PELA",
+            "_cut_line": "0",
+            "_h": "2",
+            "_horizontal_skin": "0.1",
+            "_knob_height": "2.9",
+            "_knob_vent_radius": "0",
+            "_l": "22",
+            "_large_nozzle": "true",
+            "_material": "10",
+            "_render_modules": "1",
+            "_text": "Box",
+            "_text_depth": "0.5",
+            "_top_vents": "false",
+            "_twist_l": "9",
+            "_twist_w": "9",
+            "_vertical_skin": "0.1",
+            "_w": "22"
+        }
+    },
+    "fileFormatVersion": "1",
+    "parameterSets": "",
+    "parameterSets": ""
+}
