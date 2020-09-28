@@ -1,0 +1,31 @@
+{
+    "parameterSets": {
+        "five by six": {
+            "_center": "0",
+            "_cover_center": "5",
+            "_cover_corner_tabs": "true",
+            "_cover_h": "1",
+            "_cover_text": "Cover",
+            "_cut_line": "0",
+            "_h": "1",
+            "_horizontal_skin": "0.1",
+            "_knob_height": "2.9",
+            "_knob_vent_radius": "0",
+            "_l": "5",
+            "_large_nozzle": "true",
+            "_material": "0",
+            "_render_modules": "0",
+            "_step_count": "6",
+            "_text": "",
+            "_text_depth": "0.5",
+            "_top_vents": "false",
+            "_twist_l": "2",
+            "_twist_w": "2",
+            "_vertical_skin": "0.1",
+            "_w": "5"
+        }
+    },
+    "fileFormatVersion": "1",
+    "parameterSets": "",
+    "parameterSets": ""
+}
